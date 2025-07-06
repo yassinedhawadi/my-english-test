@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>English A1 Level Test - 100 Questions</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #f0f4f8;
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+  }
+  h1, h2 {
+    text-align: center;
+  }
+  .section {
+    background: white;
+    border-radius: 8px;
+    padding: 15px 25px;
+    margin-bottom: 25px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  }
+  .question {
+    margin-bottom: 15px;
+  }
+  input[type="text"], textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 6px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+  }
+  textarea {
+    resize: vertical;
+  }
+</style>
+</head>
+<body>
+
+<h1>English Level A1 Test - 100 Questions</h1>
+
+<!-- 1. Personal Information -->
+<div class="section">
+  <h2>1. Personal Information</h2>
+  <div class="question">1. What is your name? <input type="text" /></div>
+  <div class="question">2. How old are you? <input type="text" /></div>
+  <div class="question">3. Where do you live? <input type="text" /></div>
+  <div class="question">4. What is your nationality? <input type="text" /></div>
+  <div class="question">5. What is your job? <input type="text" /></div>
+  <div class="question">6. Are you married? <input type="text" /></div>
+  <div class="question">7. Do you have children? <input type="text" /></div>
+  <div class="question">8. What languages do you speak? <input type="text" /></div>
+  <div class="question">9. What is your phone number? <input type="text" /></div>
+  <div class="question">10. What is your email address? <input type="text" /></div>
+</div>
+
+<!-- 2. Greetings and Introductions -->
+<div class="section">
+  <h2>2. Greetings and Introductions</h2>
+  <div class="question">11. How do you say “Bonjour” in English? <input type="text" /></div>
+  <div class="question">12. How do you say goodbye? <input type="text" /></div>
+  <div class="question">13. How do you introduce yourself? <input type="text" /></div>
+  <div class="question">14. What do you say when you meet someone for the first time? <input type="text" /></div>
+  <div class="question">15. What do you say when someone says “Thank you”? <input type="text" /></div>
+  <div class="question">16. How do you respond to “How are you?” <input type="text" /></div>
+  <div class="question">17. What is a polite way to ask someone's name? <input type="text" /></div>
+  <div class="question">18. How do you say “Enchanté” in English? <input type="text" /></div>
+  <div class="question">19. How do you say “Bonne nuit” in English? <input type="text" /></div>
+  <div class="question">20. What do you say to a friend in the morning? <input type="text" /></div>
+</div>
+
+<!-- 3. Vocabulary -->
+<div class="section">
+  <h2>3. Vocabulary</h2>
+  <div class="question">21. What is the English word for “chien”? <input type="text" /></div>
+  <div class="question">22. What is the English word for “maison”? <input type="text" /></div>
+  <div class="question">23. What is the English word for “livre”? <input type="text" /></div>
+  <div class="question">24. What is the English word for “école”? <input type="text" /></div>
+  <div class="question">25. What is the English word for “voiture”? <input type="text" /></div>
+  <div class="question">26. What is the English word for “pomme”? <input type="text" /></div>
+  <div class="question">27. What is the English word for “chaise”? <input type="text" /></div>
+  <div class="question">28. What is the English word for “table”? <input type="text" /></div>
+  <div class="question">29. What is the English word for “fenêtre”? <input type="text" /></div>
+  <div class="question">30. What is the English word for “porte”? <input type="text" /></div>
+</div>
+
+<!-- 4. Grammar -->
+<div class="section">
+  <h2>4. Grammar</h2>
+  <div class="question">31. Complete: I ___ happy. (am/is/are) <input type="text" /></div>
+  <div class="question">32. Complete: She ___ a student. (am/is/are) <input type="text" /></div>
+  <div class="question">33. Complete: They ___ friends. (am/is/are) <input type="text" /></div>
+  <div class="question">34. Complete: You ___ my best friend. (am/is/are) <input type="text" /></div>
+  <div class="question">35. Complete: He ___ from Canada. (am/is/are) <input type="text" /></div>
+  <div class="question">36. Complete: We ___ teachers. (am/is/are) <input type="text" /></div>
+  <div class="question">37. Complete: It ___ a sunny day. (am/is/are) <input type="text" /></div>
+  <div class="question">38. Complete: I ___ like pizza. (do/does/don't) <input type="text" /></div>
+  <div class="question">39. Complete: She ___ like coffee. (do/does/don't) <input type="text" /></div>
+  <div class="question">40. Complete: They ___ play football. (do/does/don't) <input type="text" /></div>
+</div>
+
+<!-- 5. Plurals and Pronouns -->
+<div class="section">
+  <h2>5. Plurals and Pronouns</h2>
+  <div class="question">41. What is the plural of “cat”? <input type="text" /></div>
+  <div class="question">42. What is the plural of “dog”? <input type="text" /></div>
+  <div class="question">43. What is the plural of “book”? <input type="text" /></div>
+  <div class="question">44. Replace the noun with a pronoun: “Mary is happy.” <input type="text" /></div>
+  <div class="question">45. Replace the noun with a pronoun: “John and I are friends.” <input type="text" /></div>
+  <div class="question">46. What pronoun do you use for a female? <input type="text" /></div>
+  <div class="question">47. What pronoun do you use for a male? <input type="text" /></div>
+  <div class="question">48. What pronoun do you use for yourself? <input type="text" /></div>
+  <div class="question">49. What pronoun do you use for a group of people? <input type="text" /></div>
+  <div class="question">50. What pronoun do you use for a thing? <input type="text" /></div>
+</div>
+
+<!-- 6. Time, Days and Dates -->
+<div class="section">
+  <h2>6. Time, Days and Dates</h2>
+  <div class="question">51. What time is it? 5:00 → Write in words. <input type="text" /></div>
+  <div class="question">52. What day is after Monday? <input type="text" /></div>
+  <div class="question">53. What day comes before Friday? <input type="text" /></div>
+  <div class="question">54. How do you say 12:30 in English? <input type="text" /></div>
+  <div class="question">55. How do you say 7:15 in English? <input type="text" /></div>
+  <div class="question">56. What is the first day of the week? <input type="text" /></div>
+  <div class="question">57. What month comes after June? <input type="text" /></div>
+  <div class="question">58. What month comes before December? <input type="text" /></div>
+  <div class="question">59. How do you say the date: 3/5 (day/month)? <input type="text" /></div>
+  <div class="question">60. What season is it in December? <input type="text" /></div>
+</div>
+
+<!-- 7. Numbers and Quantities -->
+<div class="section">
+  <h2>7. Numbers and Quantities</h2>
+  <div class="question">61. Write the number 15 in words. <input type="text" /></div>
+  <div class="question">62. Write the number 30 in words. <input type="text" /></div>
+  <div class="question">63. Write the number 100 in words. <input type="text" /></div>
+  <div class="question">64. How many days are there in a week? <input type="text" /></div>
+  <div class="question">65. How many months are there in a year? <input type="text" /></div>
+  <div class="question">66. How many legs does a dog have? <input type="text" /></div>
+  <div class="question">67. How many fingers do humans have? <input type="text" /></div>
+  <div class="question">68. How many wheels does a car have? <input type="text" /></div>
+  <div class="question">69. How many seasons are there? <input type="text" /></div>
+  <div class="question">70. How many days are there in February (usually)? <input type="text" /></div>
+</div>
+
+<!-- 8. Everyday Situations -->
+<div class="section">
+  <h2>8. Everyday Situations</h2>
+  <div class="question">71. What do you say when you want to buy something? <input type="text" /></div>
+  <div class="question">72. How do you ask for directions? <input type="text" /></div>
+  <div class="question">73. How do you order food in a restaurant? <input type="text" /></div>
+  <div class="question">74. How do you ask the time? <input type="text" /></div>
+  <div class="question">75. How do you say “I am lost”? <input type="text" /></div>
+  <div class="question">76. How do you say “Please” in English? <input type="text" /></div>
+  <div class="question">77. How do you ask for help? <input type="text" /></div>
+  <div class="question">78. How do you greet someone in the evening? <input type="text" /></div>
+  <div class="question">79. How do you say “I don’t understand”? <input type="text" /></div>
+  <div class="question">80. How do you say “Goodbye” politely? <input type="text" /></div>
+</div>
+
+<!-- 9. Translate Simple Sentences -->
+<div class="section">
+  <h2>9. Translate Simple Sentences</h2>
+  <div class="question">81. Translate: “Je suis fatigué.” <input type="text" /></div>
+  <div class="question">82. Translate: “Il fait froid.” <input type="text" /></div>
+  <div class="question">83. Translate: “J’aime lire.” <input type="text" /></div>
+  <div class="question">84. Translate: “Je mange une pomme.” <input type="text" /></div>
+  <div class="question">85. Translate: “Je vais à l’école.” <input type="text" /></div>
+  <div class="question">86. Translate: “Il est huit heures.” <input type="text" /></div>
+  <div class="question">87. Translate: “Je joue au football.” <input type="text" /></div>
+  <div class="question">88. Translate: “Je travaille.” <input type="text" /></div>
+  <div class="question">89. Translate: “Je bois de l’eau.” <input type="text" /></div>
+  <div class="question">90. Translate: “Je dors.” <input type="text" /></div>
+</div>
+
+<!-- 10. Writing (Short Paragraphs) -->
+<div class="section">
+  <h2>10. Writing (Short Paragraphs)</h2>
+  <div class="question">91. Write a short paragraph about yourself. <br /><textarea rows="3"></textarea></div>
+  <div class="question">92. Write about your daily routine. <br /><textarea rows="3"></textarea></div>
+  <div class="question">93. Write about your family. <br /><textarea rows="3"></textarea></div>
+  <div class="question">94. Write about your favorite food. <br /><textarea rows="3"></textarea></div>
+  <div class="question">95. Write about your hobbies. <br /><textarea rows="3"></textarea></div>
+  <div class="question">96. Write about your best friend. <br /><textarea rows="3"></textarea></div>
+  <div class="question">97. Write about your last vacation. <br /><textarea rows="3"></textarea></div>
+  <div class="question">98. Write about your school or work. <br /><textarea rows="3"></textarea></div>
+  <div class="question">99. Write about what you like to do on weekends. <br /><textarea rows="3"></textarea></div>
+  <div class="question">100. Write about your dreams and goals. <br /><textarea rows="3"></textarea></div>
+</div>
+
+</body>
+</html>
+
+
+"Add test file"
+
